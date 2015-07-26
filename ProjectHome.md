@@ -1,0 +1,1 @@
+A simple sock5 Server that written in Python,for current time,it only works,and do not support UDP and BIND yet.
